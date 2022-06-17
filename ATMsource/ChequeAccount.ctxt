@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ChequeAccount
+comment1.params=theAccountNumber\ AccountType\ thePIN\ theAvailableBalance\ theTotalBalance\ day\ month\ year
+comment1.target=ChequeAccount(int,\ int,\ int,\ double,\ double,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getlimit()
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=userAccountNumber\ AccountType\ atmScreen\ atmBankDatabase
+comment1.target=Transaction(int,\ int,\ Screen,\ BankDatabase)
+comment2.params=
+comment2.target=int\ getAccountNumber()
+comment3.params=
+comment3.target=int\ getAccountType()
+comment4.params=
+comment4.target=Screen\ getScreen()
+comment5.params=
+comment5.target=BankDatabase\ getBankDatabase()
+comment6.params=
+comment6.target=void\ execute()
+numComments=7
