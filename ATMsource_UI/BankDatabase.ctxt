@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BankDatabase
+comment1.params=
+comment1.target=BankDatabase()
+comment10.params=userAccountNumber\ AccountType\ amount
+comment10.target=void\ credit(int,\ int,\ double)
+comment11.params=userAccountNumber\ AccountType\ amount
+comment11.target=void\ debit(int,\ int,\ double)
+comment12.params=AccountType\ SystemRunningYear
+comment12.target=void\ updateTotalBalance(int,\ int)
+comment2.params=accountNumber
+comment2.target=Account\ getHoster(int)
+comment3.params=accountNumber\ AccountType
+comment3.target=Account\ getAccount(int,\ int)
+comment4.params=userAccountNumber
+comment4.target=boolean\ authenticateUser(int)
+comment5.params=userAccountNumber\ userPIN
+comment5.target=boolean\ authenticateUser(int,\ int)
+comment6.params=userAccountNumber\ AccountType
+comment6.target=boolean\ authenticateType(int,\ int)
+comment7.params=userAccountNumber\ AccountType
+comment7.target=int\ getlimit(int,\ int)
+comment8.params=userAccountNumber\ AccountType
+comment8.target=double\ getAvailableBalance(int,\ int)
+comment9.params=userAccountNumber\ AccountType
+comment9.target=double\ getTotalBalance(int,\ int)
+numComments=13

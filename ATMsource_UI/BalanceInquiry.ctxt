@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BalanceInquiry
+comment1.params=userAccountNumber\ AccountType\ atmBankDatabase
+comment1.target=BalanceInquiry(int,\ int,\ BankDatabase)
+comment2.params=
+comment2.target=void\ execute()
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=boolean\ Confirm()
+numComments=5

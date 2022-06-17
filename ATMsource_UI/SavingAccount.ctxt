@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SavingAccount
+comment1.params=theAccountNumber\ AccountType\ thePIN\ theAvailableBalance\ theTotalBalance\ day\ month\ year
+comment1.target=SavingAccount(int,\ int,\ int,\ double,\ double,\ int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getinterestrate()
+numComments=3
